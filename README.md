@@ -1,3 +1,3 @@
 # Splash_Screen_with_Gif
 
-<img src="/image/Screenshot_20230329-221331_Splash Screen with Gif" alt="LogIn" width="250" height="500">
+<img src="/image/gif.jpg" alt="LogIn" width="250" height="500">
